@@ -4,4 +4,4 @@
 <br>
 <p>Eu sou Guilherme Suaki, atualmente programo Front-End.
 <br>
-<p>💬 Converse comigo sobre: HTML, CSS & JavaScript.
+<p>💬 Converse comigo sobre: HTML, CSS, JavaScript, Bootstrap e PHP
