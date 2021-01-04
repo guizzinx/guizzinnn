@@ -1,5 +1,5 @@
 <h1>Hey!</h1>
 
-<p>Eu sou Guilherme Suaki, atualmente programo Front-End.
+<p>Developer</p>
 <br>
 <p>💬 Converse comigo sobre: HTML, CSS, JavaScript, Bootstrap e PHP
