@@ -1,5 +1,13 @@
 <h1>Hey!</h1>
 
-<p>Developer</p>
+<p>Eu sou o guizzin</p>
 <br>
-<p>💬 Converse comigo sobre: HTML, CSS, JavaScript, Bootstrap e PHP
+<h1>💻 Sobre mim</h1>
+<ul>
+  <li>🎓 Estudando</li>
+  <li>🌱 Aprendendo linguagens novas</li>
+ </ul>
+ 
+  <h1>🛠 Techs</h1>
+ <ul>
+  <li> 💬 HTML | CSS | JavaScript | Bootstrap | ReactJS</li>
