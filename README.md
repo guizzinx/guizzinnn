@@ -2,12 +2,12 @@
 
 <p>Eu sou o guizzin</p>
 <br>
-<h1>💻 Sobre mim</h1>
+<p>💻 Sobre mim</p>
 <ul>
   <li>🎓 Estudando</li>
   <li>🌱 Aprendendo linguagens novas</li>
  </ul>
  
-  <h1>🛠 Techs</h1>
+  <p>🛠 Techs</p>
  <ul>
   <li> 💬 HTML | CSS | JavaScript | Bootstrap | ReactJS</li>
