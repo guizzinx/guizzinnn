@@ -1,7 +1,7 @@
 <h1>Hello dev! All right?</h1>
 
 <br>
-<p>💻 About me/p>
+<p>💻 About me</p>
 <ul>
   <li>🎓Student programming!</li>
   <li>🌱 Apredendendo novas linguagens de programação</li>
