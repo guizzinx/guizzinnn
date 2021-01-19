@@ -16,6 +16,8 @@
  <p>🛠Learning</li>
  <ul>
   <li>Java</li>
+  <li>VueJS</li>
+  <li>AngularJS</li>
   <li>Php</li>
  </ul>
     
