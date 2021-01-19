@@ -1,10 +1,9 @@
-<h1>Olá Dev! Tudo bem?</h1>
+<h1>Hello dev! All right?</h1>
 
-<p></p>
 <br>
-<p>💻 Sobre mim</p>
+<p>💻 About me/p>
 <ul>
-  <li>🎓 Estudante de programação!</li>
+  <li>🎓Student programming!</li>
   <li>🌱 Apredendendo novas linguagens de programação</li>
  </ul>
  
@@ -14,7 +13,7 @@
   <li>ReactJS</li>
   <li>JavaScript</li>
  </ul>
- <p>🛠learning</li>
+ <p>🛠Learning</li>
  <ul>
   <li>Java</li>
   <li>Php</li>
