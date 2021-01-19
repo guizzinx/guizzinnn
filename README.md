@@ -1,13 +1,22 @@
 <h1>Olá Dev! Tudo bem?</h1>
 
-<p>Eu sou o guizzin</p>
+<p></p>
 <br>
 <p>💻 Sobre mim</p>
 <ul>
-  <li>🎓 Estudando</li>
-  <li>🌱 Aprendendo linguagens novas</li>
+  <li>🎓 Estudante de programação!</li>
+  <li>🌱 Apredendendo novas linguagens de programação</li>
  </ul>
  
-  <p>🛠 Techs</p>
+  <p>🛠 Techs Skills</p>
  <ul>
-  <li> 💬 HTML | CSS | JavaScript | Bootstrap | ReactJS</li>
+  <li>Bootstrap</li>
+  <li>ReactJS</li>
+  <li>JavaScript</li>
+ </ul>
+ <p>🛠learning</li>
+ <ul>
+  <li>Java</li>
+  <li>Php</li>
+ </ul>
+    
