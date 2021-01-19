@@ -1,7 +1,7 @@
 <h1>Hello dev! All right?</h1>
 <html>
-  <head>
-    <body>
+ <head>
+<body>
 <br>
 <p>💻 About me</p>
 <ul>
