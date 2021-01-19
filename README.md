@@ -1,5 +1,7 @@
 <h1>Hello dev! All right?</h1>
-
+<html>
+  <head>
+    <body>
 <br>
 <p>💻 About me</p>
 <ul>
@@ -20,4 +22,6 @@
   <li>AngularJS</li>
   <li>Php</li>
  </ul>
-    
+ </body>
+ </head>
+ </html>
