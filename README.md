@@ -4,7 +4,7 @@
 <p>💻 About me</p>
 <ul>
   <li>🎓Student programming!</li>
-  <li>🌱 Apredendendo novas linguagens de programação</li>
+  <li>🌱 Learning new programming languages!</li>
  </ul>
  
   <p>🛠 Techs Skills</p>
