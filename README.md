@@ -14,13 +14,15 @@
   <li>Bootstrap</li>
   <li>ReactJS</li>
   <li>JavaScript</li>
+ <li>Html kk</li>
+ <li>Css</li>
  </ul>
  <p>🛠Learning</li>
  <ul>
   <li>Java</li>
   <li>VueJS</li>
   <li>AngularJS</li>
-  <li>Php</li>
+ <li>Php</li>
  </ul>
  </body>
  </head>
