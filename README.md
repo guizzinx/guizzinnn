@@ -1,4 +1,4 @@
-<h1>Hello dev! All right?</h1>
+<h1>Hi there 👋 </h1>
 <html>
  <head>
 <body>
