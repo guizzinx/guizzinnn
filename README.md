@@ -24,6 +24,9 @@
   <li>AngularJS</li>
  <li>Php</li>
  </ul>
+ 
+ <p>Have a nice day =)</p>
+ 
  </body>
  </head>
  </html>
