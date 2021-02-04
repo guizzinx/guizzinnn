@@ -6,6 +6,6 @@ after a while I was learning JavaScript
 
 Today I am learning React, VueJs, AngularJs, Php, Java
 
-💬  Talk to me about: Html, Css, VueJs, AngularJs e ReactJs.
+💬  Talk to me about: Html, Css, VueJs, Javascript, AngularJs e ReactJs.
 
 Have a nice day =)
